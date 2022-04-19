@@ -1,2 +1,1 @@
 # MeowARMY-Minting
-minting NFT

@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7130E00b6976D3e1E3B947FD6e1E46aC4A0CF797",
+  "SCAN_LINK": "https://polygonscan.com/address/0x7130e00b6976d3e1e3b947fd6e1e46ac4a0cf797",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "MeowARMY",
+  "SYMBOL": "MAM",
+  "MAX_SUPPLY": 1700,
+  "WEI_COST": 42000000000000000000,
+  "DISPLAY_COST": 42,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/MeowARMYMetaverse",
+  "SHOW_BACKGROUND": true
+}
